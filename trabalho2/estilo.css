@@ -1,0 +1,32 @@
+/* Estilos para index.html */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #b48b8b;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: rgb(119, 50, 50);
+  }
+  
+  a {
+    font-size: 18px;
+    color: rgb(26, 31, 26);
+  }
+  
+  /* Estilos para formulario.html */
+  form {
+    background-color: #925555;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  fieldset {
+    border: 2px solid #221414;
+    padding: 15px;
+  }
+  
+  legend {
+    font-weight: bold;
+    font-size: 16px;
+  }
